@@ -1,0 +1,4 @@
+psexec \\<Computer Name> -s -d -c remote.bat
+
+Edit remoteCommandLine.ps1 for variables $CompName and $user
+
